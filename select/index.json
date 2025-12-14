@@ -1,32 +1,40 @@
 {
   "version": 1,
-  "base_track": "ナツマトペ (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
+  "base_track": "僕らの制服クリスマス (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
   "base_artist": "=LOVE",
-  "createdAt": "2025-12-14T18:36:16.253481Z",
+  "createdAt": "2025-12-14T18:48:28.851680Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "ナツマトペ (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
+      "title": "僕らの制服クリスマス (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/01_ナツマトペ_(=LOVE_6th_ANNIVERSARY_PREMIUM_CONCERT)_=LOVE.lrc"
+      "path": "select/01_僕らの制服クリスマス_(=LOVE_6th_ANNIVERSARY_PREMIUM_CONCERT)_=LOVE.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "ナツマトペ",
+      "title": "僕らの制服クリスマス",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/02_ナツマトペ_=LOVE.lrc"
+      "path": "select/02_僕らの制服クリスマス_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕らの制服クリスマス",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/03_僕らの制服クリスマス_=LOVE.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ナツマトペ",
+      "title": "僕らの制服クリスマス",
       "artist": "=LOVE",
       "has_synced": false,
-      "path": "select/pl_01_ナツマトペ_=LOVE.txt"
+      "path": "select/pl_01_僕らの制服クリスマス_=LOVE.txt"
     }
   ]
 }
