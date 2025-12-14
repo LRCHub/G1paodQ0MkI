@@ -1,32 +1,24 @@
 {
   "version": 1,
-  "base_track": "呪って呪って (＝LOVE 7th ANNIVERSARY PREMIUM CONCERT)",
+  "base_track": "「君と私の歌」 (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
   "base_artist": "=LOVE",
-  "createdAt": "2025-12-13T05:27:50.939787Z",
+  "createdAt": "2025-12-14T13:22:09.386021Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "呪って呪って",
+      "title": "「君と私の歌」",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/01_呪って呪って_=LOVE.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "呪って呪って (instrumental)",
-      "artist": "=LOVE",
-      "has_synced": true,
-      "path": "select/02_呪って呪って_(instrumental)_=LOVE.lrc"
+      "path": "select/01_「君と私の歌」_=LOVE.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "呪って呪って",
+      "title": "「君と私の歌」",
       "artist": "=LOVE",
       "has_synced": false,
-      "path": "select/pl_01_呪って呪って_=LOVE.txt"
+      "path": "select/pl_01_「君と私の歌」_=LOVE.txt"
     }
   ]
 }
