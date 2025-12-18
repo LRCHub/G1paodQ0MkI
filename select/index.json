@@ -1,40 +1,40 @@
 {
   "version": 1,
-  "base_track": "僕らの制服クリスマス (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
+  "base_track": "この空がトリガー (＝LOVE 7th ANNIVERSARY PREMIUM CONCERT)",
   "base_artist": "=LOVE",
-  "createdAt": "2025-12-14T18:49:07.955015Z",
+  "createdAt": "2025-12-18T12:40:05.768599Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "僕らの制服クリスマス (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
+      "title": "この空がトリガー",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/01_僕らの制服クリスマス_(=LOVE_6th_ANNIVERSARY_PREMIUM_CONCERT)_=LOVE.lrc"
+      "path": "select/01_この空がトリガー_=LOVE.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "僕らの制服クリスマス",
-      "artist": "=LOVE",
+      "title": "この空がトリガー",
+      "artist": "=Love",
       "has_synced": true,
-      "path": "select/02_僕らの制服クリスマス_=LOVE.lrc"
+      "path": "select/02_この空がトリガー_=Love.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "僕らの制服クリスマス",
-      "artist": "=LOVE",
+      "title": "この空がトリガー",
+      "artist": "Various",
       "has_synced": true,
-      "path": "select/03_僕らの制服クリスマス_=LOVE.lrc"
+      "path": "select/03_この空がトリガー_Various.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "僕らの制服クリスマス",
+      "title": "この空がトリガー",
       "artist": "=LOVE",
       "has_synced": false,
-      "path": "select/pl_01_僕らの制服クリスマス_=LOVE.txt"
+      "path": "select/pl_01_この空がトリガー_=LOVE.txt"
     }
   ]
 }
