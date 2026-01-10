@@ -1,32 +1,32 @@
 {
   "version": 1,
-  "base_track": "僕のヒロイン (=LOVE 5th ANNIVERSARY PREMIUM CONCERT)",
+  "base_track": "夏祭り恋慕う (＝LOVE 7th ANNIVERSARY PREMIUM CONCERT)",
   "base_artist": "=LOVE",
-  "createdAt": "2026-01-07T15:15:28.225763Z",
+  "createdAt": "2026-01-10T05:34:21.076547Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "僕のヒロイン",
+      "title": "夏祭り恋慕う",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/01_僕のヒロイン_=LOVE.lrc"
+      "path": "select/01_夏祭り恋慕う_=LOVE.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "僕のヒロイン (instrumental)",
+      "title": "夏祭り恋慕う(instrumental)",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/02_僕のヒロイン_(instrumental)_=LOVE.lrc"
+      "path": "select/02_夏祭り恋慕う(instrumental)_=LOVE.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "僕のヒロイン",
+      "title": "夏祭り恋慕う",
       "artist": "=LOVE",
       "has_synced": false,
-      "path": "select/pl_01_僕のヒロイン_=LOVE.txt"
+      "path": "select/pl_01_夏祭り恋慕う_=LOVE.txt"
     }
   ]
 }
